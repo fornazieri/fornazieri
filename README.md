@@ -12,6 +12,14 @@ I'm Brazilian, work as a Delphi developer and currently learning a little bit of
   <img align="left" alt="Vitor Fornazieri Instagram" width="22px" src="https://github.com/fornazieri/fornazieri/blob/59fb5276092e43558b009b11f769f3a5be316a2e/assets/instagram_tulpahn.svg" style="max-width:100%;">
 </a>
 
+<a href="mailto:viitor.f@hotmail.com" rel="nofollow">
+  <img align="left" alt="Vitor Fornazieri Outlook" width="22px" src="https://github.com/fornazieri/fornazieri/blob/e6537a9f44a75a3b784d36839636b35bf63f570f/assets/outlook.svg" style="max-width:100%;">
+</a>
+
+<a href="mailto:vitortrust@gmail.com" rel="nofollow">
+  <img align="left" alt="Vitor Fornazieri Gmail" width="22px" src="https://github.com/fornazieri/fornazieri/blob/e6537a9f44a75a3b784d36839636b35bf63f570f/assets/gmail.svg" style="max-width:100%;">
+</a>
+
 <a href="https://open.spotify.com/user/viitor.f" rel="nofollow">
   <img align="left" alt="Vitor Fornazieri Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" style="max-width:100%;">
 </a>
