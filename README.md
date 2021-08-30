@@ -8,16 +8,16 @@ Brazilian, Delphi developer and currently learning a little bit of everything. M
   <img align="left" alt="Vitor Fornazieri LinkedIN" width="22px" src="https://github.com/fornazieri/fornazieri/blob/6a11ac6ede66003ee5917658423d8ae884ed352f/assets/applications_linkedin_social_social%20media_icon.svg" style="max-width:100%;">
 </a>
 
-<a href="https://www.instagram.com/vitor.fornazieri/" rel="nofollow">
-  <img align="left" alt="Vitor Fornazieri Instagram" width="22px" src="https://github.com/fornazieri/fornazieri/blob/59fb5276092e43558b009b11f769f3a5be316a2e/assets/instagram_tulpahn.svg" style="max-width:100%;">
-</a>
-
 <a href="mailto:viitor.f@hotmail.com" rel="nofollow">
   <img align="left" alt="Vitor Fornazieri Outlook" width="22px" src="https://github.com/fornazieri/fornazieri/blob/e6537a9f44a75a3b784d36839636b35bf63f570f/assets/outlook.svg" style="max-width:100%;">
 </a>
 
 <a href="mailto:vitortrust@gmail.com" rel="nofollow">
   <img align="left" alt="Vitor Fornazieri Gmail" width="22px" src="https://github.com/fornazieri/fornazieri/blob/e6537a9f44a75a3b784d36839636b35bf63f570f/assets/gmail.svg" style="max-width:100%;">
+</a>
+
+<a href="https://www.instagram.com/vitor.fornazieri/" rel="nofollow">
+  <img align="left" alt="Vitor Fornazieri Instagram" width="22px" src="https://github.com/fornazieri/fornazieri/blob/59fb5276092e43558b009b11f769f3a5be316a2e/assets/instagram_tulpahn.svg" style="max-width:100%;">
 </a>
 
 <a href="https://open.spotify.com/user/viitor.f" rel="nofollow">
