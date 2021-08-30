@@ -1,5 +1,5 @@
 ### Hi there, i'm Vitor 👋
-I'm Brazilian, work as a Delphi developer and currently learning a little bit of everything. My goal from this year is to create a new project.
+Brazilian, Delphi developer and currently learning a little bit of everything. My goal from this year is to create a new project.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fornazieri&count_private=true&layout=compact&theme=nord&hide_border=true&langs_count=10&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
