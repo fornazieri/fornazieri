@@ -1,11 +1,19 @@
 ### Hi there, i'm Vitor 👋
-I'm Brazilian, work as a Delphi developer and currently learning a little bit of everything. My goal from this year is to create a new project.
+Brazilian, Delphi developer and currently learning a little bit of everything. My goal from this year is to create a new project.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fornazieri&count_private=true&layout=compact&theme=nord&hide_border=true&langs_count=10&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Where to find me
 <a href="https://www.linkedin.com/in/fornazieri/" rel="nofollow">
   <img align="left" alt="Vitor Fornazieri LinkedIN" width="22px" src="https://github.com/fornazieri/fornazieri/blob/6a11ac6ede66003ee5917658423d8ae884ed352f/assets/applications_linkedin_social_social%20media_icon.svg" style="max-width:100%;">
+</a>
+
+<a href="mailto:viitor.f@hotmail.com" rel="nofollow">
+  <img align="left" alt="Vitor Fornazieri Outlook" width="22px" src="https://github.com/fornazieri/fornazieri/blob/e6537a9f44a75a3b784d36839636b35bf63f570f/assets/outlook.svg" style="max-width:100%;">
+</a>
+
+<a href="mailto:vitortrust@gmail.com" rel="nofollow">
+  <img align="left" alt="Vitor Fornazieri Gmail" width="22px" src="https://github.com/fornazieri/fornazieri/blob/e6537a9f44a75a3b784d36839636b35bf63f570f/assets/gmail.svg" style="max-width:100%;">
 </a>
 
 <a href="https://www.instagram.com/vitor.fornazieri/" rel="nofollow">
