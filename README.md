@@ -8,6 +8,10 @@ Brazilian, Delphi developer and currently learning a little bit of everything. M
   <img align="left" alt="Vitor Fornazieri LinkedIN" width="22px" src="https://github.com/fornazieri/fornazieri/blob/6a11ac6ede66003ee5917658423d8ae884ed352f/assets/applications_linkedin_social_social%20media_icon.svg" style="max-width:100%;">
 </a>
 
+<a href="https://pt.stackoverflow.com/users/255081/vitor-fornazieri" rel="nofollow">
+  <img align="left" alt="Vitor Fornazieri StackOverflow profile" width="22px" src="https://github.com/fornazieri/fornazieri/blob/0b5b6282212c340e33cdc1b90187b4b246dcf86d/assets/stackoverflow.svg" style="max-width:100%;">
+</a>
+
 <a href="mailto:viitor.f@hotmail.com" rel="nofollow">
   <img align="left" alt="Vitor Fornazieri Outlook" width="22px" src="https://github.com/fornazieri/fornazieri/blob/e6537a9f44a75a3b784d36839636b35bf63f570f/assets/outlook.svg" style="max-width:100%;">
 </a>
