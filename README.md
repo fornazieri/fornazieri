@@ -25,7 +25,8 @@ Brazilian, Delphi developer and currently learning a little bit of everything. M
 </a>
 
 <a href="https://open.spotify.com/user/viitor.f" rel="nofollow">
-  <img align="left" alt="Vitor Fornazieri Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" style="max-width:100%;">
+  <img align="left" alt="Vitor Fornazieri Spotify" width="22px" 
+src="https://github.com/fornazieri/fornazieri/blob/e6537a9f44a75a3b784d36839636b35bf63f570f/assets/spotify_icon.svg" style="max-width:100%;">
 </a>
 </br>
 </br>
